@@ -7,7 +7,7 @@ Updated: 20 April 2022
 
   - `Sample regression line` is calculated from **a particular sample**: $\hat y=b_0+b_1x$
 
-  - `Sample slope's sampling distribution` shows **the pattern of variation in the sample slope** $b_1$.
+  - `Sample slope's sampling distribution` shows **the pattern of variation in the sample slope** $b_1$
 
     - Simple random sample: $n$ observations out of $N$
 
@@ -17,11 +17,9 @@ Updated: 20 April 2022
 
     - Center: $\mu_{b_1}=\beta _1$, where $b_1$ is an **unbiased estimator** of $\beta_1$.
 
-    - $10\%$ condition: $n<10\%N$
+    - $10\% $ condition: $n<10\% N$
 
-    - Variability/Standard deviation:\\
-      $\sigma_{b_1}=\frac{\sigma}{\sigma_x\sqrt{n}}$
-      where $\sigma$ is **the SD of response variable** and that $\sigma_x$ is **the SD of explanatory variable**.
+    - Variability/Standard deviation: $\sigma_{b_1}=\frac{\sigma}{\sigma_x\sqrt{n}}$, where $\sigma$ is **the SD of response variable** and that $\sigma_x$ is **the SD of explanatory variable**.
 
 - `Regression inference (LINER)`
 
