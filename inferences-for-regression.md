@@ -59,10 +59,7 @@ Updated: 20 April 2022
 
 - `Significant test for the slope`
 
-  - The standardized test statistic
-    $$
-    t=\frac{b_1-\text{hypothesize slope}}{SE_{b_1}}
-    $$
+  - The standardized test statistic  $t=\frac{b_1-\text{hypothesize slope}}{SE_{b_1}} $
 
   - Useful templates:
 
@@ -71,9 +68,9 @@ Updated: 20 April 2022
 
     - Plan: Linear regression t-test for $\beta$. LINER!
 
-    - Do: t-statistic formula, df $\to$ $t-statistic$; t-cdf $\to p-value$
+    - Do: t-statistic formula, df $\to$  $t-statistic$; t-cdf  $\to p-value$
 
-    - Conclude: Compare the $p-value$ to $\alpha$.
+    - Conclude: Compare the  $p-value$ to  $\alpha$.
 
       - Fail to reject $H_0$, there is no convincing evidence that $H_a$ is true.
       - Reject $H_0$, there is convincing evidence that $H_a$ is true.
