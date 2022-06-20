@@ -1,8 +1,5 @@
-### $\textbf{Stats 35 AP Review}$
-
+### Notes on Inferences for Regression
 `UPD 4.20`
-
-### $\text{Ch.26}\sim \text{Inferences for Regression}$
 
 - `Least-squares regression line`
 
