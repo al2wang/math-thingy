@@ -71,11 +71,8 @@ Updated: 20 April 2022
 
   - Useful templates:
 
-    - State: We want to test
-      $$
-      H_0:\beta _1 =\text{hypothesized slope}\\ H_0:\beta _1 > \text{hypothesized slope}
-      $$
-      where $\beta$ is the true slope of the population regression line relating $y-value$ to $x-value$ **at the confidence level $\alpha = 0.05$**.
+    - State: We want to test $H_0:\beta _1 =\text{hypothesized slope}\\ H_0:\beta _1 > \text{hypothesized slope}$
+          where $\beta$ is the true slope of the population regression line relating $y-value$ to $x-value$ **at the confidence level $\alpha = 0.05$**.
 
     - Plan: Linear regression t-test for $\beta$. LINER!
 
