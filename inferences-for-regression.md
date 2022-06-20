@@ -15,7 +15,7 @@ Updated: 20 April 2022
 
     - Shape: approximately normal if the Normal condition is met, to wit $\forall x\in n(x)\to y\big|_{\text{normal}}$
 
-    - Center: $\mu_{b_1}=\beta _1$, where $b_1$ is an **unbiased estimator** of $\beta_1$.
+    - Center: $\mu_{b_1}=\beta _1$, where $b_1$ is an **unbiased estimator** of $\beta_1$
 
     - 10% condition: $n<0.1N$
 
