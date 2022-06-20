@@ -44,8 +44,8 @@ Updated: 20 April 2022
 
     - `Constant Coef` is $b_0$: To wit to interpret the $y-intercept$, ... **on average**.
     - `x's Coef (Drop height)` is $b_1$: For an increase of 1 unit of the $x-value$, the **average** $y-value$ increases by ... unit.
-    - `s value` is $\sigma $: The actual $y-value $ typically varies by about $\sigma $ units from the predicted with the LSRL using $x=(explanatory\ variable\ name)$.
-    - `SE value` is $SE_{b_1}$: if we **repeat the data production/random assignments many times**, the sample slope typically varies by about $SE_{b_1}$ units from the true population slope for predicting $y-value$ from $x-value$.
+    - `s value` is  $\sigma $: The actual  $y-value $ typically varies by about  $\sigma $ units from the predicted with the LSRL using $x=(explanatory\ variable\ name)$.
+    - `SE value` is  $SE_{b_1}$: if we **repeat the data production/random assignments many times**, the sample slope typically varies by about $SE_{b_1}$ units from the true population slope for predicting $y-value$ from $x-value$.
 
 - `Confidence interval of the slope`
   $$
