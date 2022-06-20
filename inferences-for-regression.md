@@ -19,7 +19,7 @@ Updated: 20 April 2022
 
     - 10% condition: $n<0.1N$
 
-    - Variability/Standard deviation: $\sigma_{b_1}=\frac{\sigma}{\sigma_x\sqrt{n}}$, where $\sigma$ is **the SD of response variable** and that $\sigma_x$ is **the SD of explanatory variable**
+    - Variability/Standard deviation: $\sigma_{b_1}=\frac{\sigma}{\sigma _x\sqrt{n}}$, where $\sigma$ is **the SD of response variable** and that $\sigma_x$ is **the SD of explanatory variable**
 
 - `Regression inference (LINER)`
 
