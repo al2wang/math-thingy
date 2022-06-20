@@ -17,7 +17,7 @@ Updated: 20 April 2022
 
     - Center: $\mu_{b_1}=\beta _1$, where $b_1$ is an **unbiased estimator** of $\beta_1$.
 
-    - $10\% $ condition: $n<10\% N$
+    - $10 \%$ condition: $n<10 \%N$
 
     - Variability/Standard deviation: $\sigma_{b_1}=\frac{\sigma}{\sigma_x\sqrt{n}}$, where $\sigma$ is **the SD of response variable** and that $\sigma_x$ is **the SD of explanatory variable**.
 
