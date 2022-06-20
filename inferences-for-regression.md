@@ -47,11 +47,7 @@ Updated: 20 April 2022
     - `s value` is  $\sigma $: The actual  $y-value $ typically varies by about  $\sigma $ units from the predicted with the LSRL using $x=(explanatory\ variable\ name)$.
     - `SE value` is  $SE_{b_1}$: if we **repeat the data production/random assignments many times**, the sample slope typically varies by about $SE_{b_1}$ units from the true population slope for predicting $y-value$ from $x-value$.
 
-- `Confidence interval of the slope`
-  $$
-  \text{t-interval}=b_1\pm t^*\cdot SE_{b_1}\\
-  \text{df}(t^*)=n-2
-  $$
+- `Confidence interval of the slope` $\text{t-interval}=b_1\pm t^{\*}\cdot SE_{b_1}; \text{df}(t^{\*})=n-2 $
 
   - Useful templates:
     - State: ...% CI for slope $\beta$, where $\beta$ is the true slope of the population regression line relating $y-value$ to $x-value$.
