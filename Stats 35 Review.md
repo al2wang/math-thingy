@@ -3,10 +3,7 @@
 
 - `Least-squares regression line`
 
-  - `Population regression line` is calculated from **every value in the population**:
-    $
-    \mu _y=\beta_0+\beta_1x
-    $
+  - `Population regression line` is calculated from **every value in the population**: $\mu _y=\beta_0+\beta_1x$
 
   - `Sample regression line` is calculated from **a particular sample**:
     $$
