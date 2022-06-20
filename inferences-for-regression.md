@@ -38,7 +38,7 @@ Updated: 20 April 2022
 
 - `Estimating parameters`
 
-  - `Standard error` shows **how far the sample slope typically varies from the true populational slope if we repeat the data production/random assignments many times**: $ SE_{b_1}=\frac{s}{s_x \sqrt{n-1}} $
+  - `Standard error` shows **how far the sample slope typically varies from the true populational slope if we repeat the data production/random assignments many times**: $SE_{b_1}=\frac{s}{s_x \sqrt{n-1}} $
 
   - Read out data from the `calculator table`:
 
