@@ -1,5 +1,5 @@
 ### Notes on Inferences for Regression
-Updated: 20 April 2022
+> Peer tutoring materials / Updated: 20 April 2022
 
 - `Least-squares regression line`
 
