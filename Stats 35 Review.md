@@ -1,14 +1,11 @@
 ### Notes on Inferences for Regression
-`UPD 4.20`
+Updated: 20 April 2022
 
 - `Least-squares regression line`
 
   - `Population regression line` is calculated from **every value in the population**: $\mu _y=\beta_0+\beta_1x$
 
-  - `Sample regression line` is calculated from **a particular sample**:
-    $$
-    \hat y=b_0+b_1x
-    $$
+  - `Sample regression line` is calculated from **a particular sample**: $\hat y=b_0+b_1x$
 
   - `Sample slope's sampling distribution` shows **the pattern of variation in the sample slope** $b_1$.
 
@@ -16,21 +13,11 @@
 
     - Response value: $y$; explanatory value: $x$
 
-    - Shape: approximately normal if the Normal condition is met, to wit
-      $$
-      \forall x\in n(x)\to y\big|_{\text{normal}}
-      $$
+    - Shape: approximately normal if the Normal condition is met, to wit $\forall x\in n(x)\to y\big|_{\text{normal}}$
 
-    - Center:
-      $$
-      \mu_{b_1}=\beta _1,
-      $$
-      where $b_1$ is an **unbiased estimator** of $\beta_1$.
+    - Center: $\mu_{b_1}=\beta _1$, where $b_1$ is an **unbiased estimator** of $\beta_1$.
 
-    - 10% condition:
-      $$
-      n<10\%N
-      $$
+    - $10%$ condition: $n<10\%N$
 
     - Variability/Standard deviation:
       $$
