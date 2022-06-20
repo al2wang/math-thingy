@@ -50,7 +50,8 @@ Updated: 20 April 2022
 - `Confidence interval of the slope`   $\text{t-interval}=b_1\pm t^{\*}\cdot SE_{b_1}; \text{df}(t^{\*})=n-2 $
 
   - Useful templates:
-    - State: ...% CI for slope  $\beta$, where  $\beta$
+    - State: ...% CI for slope  $\beta $, where
+      $\beta$
     is the true slope of the population regression line relating  $y-value$ to  $x-value$.
     - Plan: Linear regression t-interval for  $\beta$. LINER!
     - Do: CI formula, df, t*  $\to$ $CI\in(a,b)$
