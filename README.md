@@ -1,21 +1,15 @@
 # Self-learning notes on advanced Math topics
 
-## Vector Calculus
+## Link to my personal notes
 
-Link to my personal notes: 
+### Vector Calculus
 
-## Linear Algebra
+### Linear Algebra
 
-Link to my personal notes: 
+### Mathematical Analysis
 
-## Mathematical Analysis
+### Math skills in Physics Olympiads
 
-Link to my personal notes: 
-
-## Math skills in Physics Olympiads
-
-Link to my personal notes: 
-
-# Disclaimer
+## Disclaimer
 
 These notes are not to be copied in any ways for profitable or lucrative uses. Educational uses are permitted.
