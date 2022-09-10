@@ -1,4 +1,4 @@
-# Self-learning notes on advanced Math topics
+# Notes on advanced Math topics
 
 ## Link to my personal notes
 
@@ -9,6 +9,7 @@
 ### Mathematical Analysis
 
 ### Math skills in Physics Olympiads
+By 
 
 ## Disclaimer
 
